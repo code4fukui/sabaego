@@ -39,7 +39,7 @@ As this is a modified fork, refer to the original `gsimaps` project for base fun
 - **Disclaimer:** Server-side services are not guaranteed to be persistently in operation and may be updated or abandoned without prior notice.
 
 ## Related Tools (from gsimaps)
-- [Layers Definition Editor](http://gsi-cyberjapan.github.io/gsimaps/config/config.html)
+- Layers Definition Editor *(demo unavailable)*
 - [Layers Definition Specifications](https://github.com/gsi-cyberjapan/layers-dot-txt-spec)
 
 ## License

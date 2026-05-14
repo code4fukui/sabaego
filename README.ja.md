@@ -37,7 +37,7 @@
 - **免責事項:** サーバーサイドのサービスは、常に稼働していること、および永続的に稼働していることは保証されません。また、事前通知なしに更新または廃止される可能性があります。
 
 ## 関連ツール（gsimapsより）
-- [レイヤ定義ファイル編集ツール](http://gsi-cyberjapan.github.io/gsimaps/config/config.html)
+- レイヤ定義ファイル編集ツール *(demo unavailable)*
 - [レイヤ定義仕様書](https://github.com/gsi-cyberjapan/layers-dot-txt-spec)
 
 ## ライセンス
